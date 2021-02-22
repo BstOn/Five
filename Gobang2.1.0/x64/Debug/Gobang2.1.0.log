@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Gobang2.1.0.vcxproj, Gobang3.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Gobang2.1.0.vcxproj, Gobang3.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  BackstageAi.cpp
+  Evaluate.cpp
+  GameThread.cpp
+  Judge_Win.cpp
+  main.cpp
+  MainWindow.cpp
+  ChessPlay.cpp
+  OpenFive.cpp
+d:\五子棋更新版\5.1.0比赛版本\gobang2.1.0\gobang2.1.0\openfive.cpp(36): warning C4715: “Game::change”: 不是所有的控件路径都返回值
+  SearchAi.cpp
+  VcAttack.cpp
+  WalkingGenerator.cpp
+  qrc_resource.cpp
+  moc_GameThread.cpp
+  moc_ChessPlay.cpp
+  moc_MainWindow.cpp
+  Gobang2.1.0.vcxproj -> D:\五子棋更新版\5.1.0比赛版本\Gobang2.1.0\x64\Debug\GobangTest.exe
